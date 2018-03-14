@@ -1589,6 +1589,10 @@
       <child xsi:type="archimate:DiagramObject" id="4ba47094-c90b-4897-8a70-40eb96086d08" targetConnections="733203b9-0d63-4b9b-9bef-a18710339c21" archimateElement="1087f190-4314-4de8-9b93-d165b71f994e">
         <bounds x="348" y="889" width="168" height="54"/>
       </child>
+      <child xsi:type="archimate:Note" id="9431ed7a-f56f-4e23-a3ff-fcb8bbbfe154" textAlignment="1">
+        <bounds x="2560" y="564" width="185" height="80"/>
+        <content>como ligar produto à empresa</content>
+      </child>
     </element>
   </folder>
 </archimate:model>
