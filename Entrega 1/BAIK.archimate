@@ -824,6 +824,18 @@
           <bendpoint startX="264" startY="380" endX="-204"/>
         </sourceConnection>
       </child>
+      <child xsi:type="archimate:Note" id="c2c89c0b-bc47-4490-88d1-a6241883da93" textAlignment="1">
+        <bounds x="587" y="394" width="85" height="80"/>
+        <content>ESTA SETA ESTÃ MAL</content>
+      </child>
+      <child xsi:type="archimate:Note" id="a6233f1b-d2cd-4458-a7fd-01ad252c70a8" textAlignment="1">
+        <bounds x="429" y="295" width="126" height="80"/>
+        <content>ESTA SETA ESTÃ MAL</content>
+      </child>
+      <child xsi:type="archimate:Note" id="72dd17a2-7215-4171-a519-e1fbb79f5d4a" textAlignment="1">
+        <bounds x="-12" y="158" width="85" height="80"/>
+        <content>ESTA SETA ESTÃ MAL</content>
+      </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Descrição Aplicacional da Empresa" id="21668584-b80d-4e53-990b-df5ccbd04271">
       <child xsi:type="archimate:DiagramObject" id="cc7a32d3-adc2-4187-a6aa-af8eec83676c" targetConnections="6481387f-fc11-416f-8e96-82fbc1469be1" archimateElement="3d494457-0584-4039-8f6a-8b4f0b84f101">
@@ -1009,6 +1021,10 @@
           <bendpoint startX="-124" startY="-8" endX="120" endY="12"/>
           <bendpoint startX="-124" startY="-20" endX="120"/>
         </sourceConnection>
+        <child xsi:type="archimate:Note" id="5ae64b25-ee21-4ca8-98f2-f6c90dd8502b" textAlignment="1">
+          <bounds x="48" width="185" height="80"/>
+          <content>ESCLHAS E ALTERAÇOES SAO FEITAS PELOS CLIESTES, NAO E UM SERVIÇO</content>
+        </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="468e0b6c-3e1b-44b9-9057-d1763b73619e" targetConnections="805c101b-20b2-4a0a-bd8b-6151d1d4eca2 7f2f0459-2ad8-4e60-b2f1-651257b06eb1 f0ee064b-8c10-493d-94ab-4f373d98b06d 6c4cc40e-1080-4bdf-bd89-0bc97764b150" archimateElement="6081e494-07aa-4988-ae8d-9ab946c22c36">
         <bounds x="264" width="144" height="49"/>
@@ -1103,6 +1119,23 @@
         <sourceConnection xsi:type="archimate:Connection" id="08e9f834-0ab2-405a-83bc-4df4479984c7" source="35f86fc0-8916-41c9-956c-c740b101c874" target="16ca42d3-20bb-40f6-a263-35523a50680a" archimateRelationship="dae6c5da-a5b9-4ea5-8032-1f3c3476b3d4">
           <bendpoint startX="-220" startY="7" endX="24" endY="-76"/>
         </sourceConnection>
+      </child>
+      <child xsi:type="archimate:Note" id="e8af1237-a03e-4516-9c4e-06b9e6752afb" textAlignment="1">
+        <bounds x="1284" y="257" width="185" height="80"/>
+        <content>COMPOSITON DE COMPONENTES PARA INTERFACES</content>
+      </child>
+      <child xsi:type="archimate:Note" id="08c3b517-2efd-45a5-8a18-f2490358f04a" textAlignment="1">
+        <bounds x="1064" y="256" width="185" height="80"/>
+        <content>BAIK COLABORACAO NAO EXISTE&#xD;
+</content>
+      </child>
+      <child xsi:type="archimate:Note" id="be5c0945-9976-4a94-a383-0b1ddefe3b23" textAlignment="1">
+        <bounds x="1380" y="15" width="185" height="80"/>
+        <content>DEBITO É FEITO ATRAVES DA API</content>
+      </child>
+      <child xsi:type="archimate:Note" id="8b5ce5b1-5da2-4768-9160-9056919d3401" textAlignment="1">
+        <bounds x="1392" y="368" width="185" height="80"/>
+        <content>ASSIGNEMT DE INTERFACE PARA OS SERVIÇOS</content>
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Vista de negócio, aplicacional e tecnológica" id="27d221f7-8ce5-4556-af74-fa2430c21c77">
@@ -1411,6 +1444,10 @@
           <bendpoint startX="84" startY="-84" endX="6" endY="278"/>
           <bendpoint startX="84" startY="-180" endX="6" endY="182"/>
         </sourceConnection>
+        <child xsi:type="archimate:Note" id="0bd5cf68-7d8a-4614-a652-25f3e5053f18" textAlignment="1">
+          <bounds y="12" width="336" height="36"/>
+          <content>APAGAR ESTES QUATRO E LIGAR O RASPIAN À BICA ATRAVES DE SERVING</content>
+        </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="e28fb555-2a17-4842-9e84-44471f9440af" archimateElement="a4c9cffd-8a58-45af-b0d9-3b56e4f16140">
         <bounds x="1207" y="1068" width="168" height="73"/>
@@ -1500,7 +1537,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="d2564346-6586-4c30-9995-3de96a4006f5" source="bafc4aa0-5833-43f0-9948-901d28882e30" target="a285d414-e806-4493-9884-7eaad454db1f" archimateRelationship="87219726-e228-4408-ba51-a1e3a5998d00"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="ec5f4eaa-522f-461f-8f68-4c28afac5496" targetConnections="f793512d-37eb-47a2-9e0e-31c4e8e153f5 88c84f35-7bfb-4af3-a166-69bd200ecc4a b238c43c-33b7-4e78-8c94-6c5ddcd06661 72807296-c54c-43f4-919a-9fb2be246486 e9bf5033-9fc4-46b9-8bfa-5b2ff44b40eb 6f14af53-c369-4f0e-8e46-c5d17d1ed5cc cf443bac-d7c4-4f6c-95fb-cf10579e34ab" archimateElement="704a08de-11e2-49f7-9442-5861c8de374d">
-        <bounds x="1723" y="325" width="120" height="76"/>
+        <bounds x="1704" y="266" width="120" height="76"/>
         <sourceConnection xsi:type="archimate:Connection" id="5b2b2090-1d90-4a0c-85dd-c8cde7b604a5" source="ec5f4eaa-522f-461f-8f68-4c28afac5496" target="04140605-2ab0-436d-a90e-3d70710e651e" archimateRelationship="b53f814d-a8e4-4668-acc6-dc2bccde9f1f"/>
         <sourceConnection xsi:type="archimate:Connection" id="6f1012d4-a916-475d-9327-613070e7eb99" source="ec5f4eaa-522f-461f-8f68-4c28afac5496" target="a84fb449-550e-49dc-8db2-b9e81365581c" archimateRelationship="f10324fb-af8e-4a8f-9ebe-85fba4cf9fcb"/>
       </child>
@@ -1587,6 +1624,22 @@
           <bendpoint startX="-184" startY="-4" endX="96" endY="279"/>
           <bendpoint startX="-184" startY="-280" endX="96" endY="3"/>
         </sourceConnection>
+      </child>
+      <child xsi:type="archimate:Note" id="7617b5cd-dd00-4f35-b173-74b5fb15c770" textAlignment="1">
+        <bounds x="392" y="1152" width="336" height="36"/>
+        <content>APAGAR ESTESDOIS</content>
+      </child>
+      <child xsi:type="archimate:Note" id="c994533f-a40a-4df0-8fe0-e687ec43d785" textAlignment="1">
+        <bounds x="468" y="1296" width="162" height="36"/>
+        <content>A VM TEM DE REALIZAR O GATEWAY BANK</content>
+      </child>
+      <child xsi:type="archimate:Note" id="b80d8f6c-a0ce-4362-a964-92d224a2b172" textAlignment="1">
+        <bounds x="816" y="1471" width="336" height="36"/>
+        <content>APAGAR Õ CLUSTER</content>
+      </child>
+      <child xsi:type="archimate:Note" id="a4e0fb90-3cb6-4d43-9a02-c8e5dddf19d7" textAlignment="1">
+        <bounds x="1110" y="300" width="232" height="120"/>
+        <content>~ESTA SETA ESTÁ MAL</content>
       </child>
     </element>
   </folder>
